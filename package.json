@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "React course by Akshay Saini learner-Abhilash",
   "scripts": {
+    "start":"parcel index.html",
     "test": "jest"
   },
   "repository": {
